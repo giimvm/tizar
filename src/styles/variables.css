@@ -1,0 +1,22 @@
+:root {
+  /* Cores */
+  --primary-color: #1f4fab;
+  --secondary-color: #2f80ed;
+  --background-color: #ffffff;
+  --text-color: #333333;
+
+  /* Containers */
+  --max-width: 1200px;
+
+  /* Espaçamentos */
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 32px;
+  --spacing-xl: 64px;
+
+  /* Bordas */
+  --border-radius: 8px;
+
+  /* Sombras */
+  --shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
