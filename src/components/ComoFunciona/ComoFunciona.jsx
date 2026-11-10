@@ -43,11 +43,15 @@ function ComoFunciona() {
   return (
     <section className="como-funciona">
       <header className="como-funciona-header">
-        <p>CADÊNCIA OPERACIONAL</p>
+        <p className="section-tag"> 
+          COMO FUNCIONA
+        </p>
 
-        <h2>Toda semana onde está o próximo ganho</h2>
+        <h2 className="section-title">
+          Toda semana onde está o próximo ganho
+        </h2>
 
-        <p>
+        <p className="section-description">
           Rotina estruturada de segunda a sexta para blindar a
           rentabilidade do seu supermercado.
         </p>
